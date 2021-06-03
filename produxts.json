@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "product": "toothbrush",
+    "total": 4.75,
+    "customer": "Mike"
+  },
+  {
+    "id": 2,
+    "product": "Guitar",
+    "total": 200,
+    "customer": "Tom"
+  },
+  {
+    "id": 3,
+    "product": "milk",
+    "total": 8.45,
+    "customer": "Mike"
+  },
+  {
+    "id": 4,
+    "product": "pizza",
+    "total": 4.5,
+    "customer": "Karan"
+  },
+  {
+    "id": 5,
+    "product": "toothbrush",
+    "total": 4.75,
+    "customer": "Karen"
+  },
+  {
+    "id": 6,
+    "product": "pizza",
+    "total": 8,
+    "customer": "Dave"
+  },
+  {
+    "id": 7,
+    "product": "toothbrush",
+    "total": 4.75,
+    "customer": "Mike"
+  }
+]
